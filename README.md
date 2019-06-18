@@ -42,7 +42,8 @@ Bayesian Methods,
 ### MORE PYTHON
 
 Work through as many of the examples as you fancy in Chapters 6 and 7 here https://scipython.com/book/
-MATHS
+
+## MATHS
 
 LINEAR ALGEBRA 
 
@@ -65,11 +66,7 @@ PRACTICE PYTHON PROJECTS
 https://github.com/tuvtran/project-based-learning#python
 https://projecteuler.net/
 
-DATA EXPLORATION
 
-https://github.com/StephenElston/ExploringDataWithPython/blob/master/LearningDataVisualization.ipynb
-
-https://www.kaggle.com/c/titanic#description
 
 PROBABILITY AND STATISTICS
 
@@ -80,6 +77,11 @@ http://www.wzchen.com/probability-cheatsheet/
 
 <center> <h1>Week Four</h1> </center>
 Statistical & Machine Learning
+DATA EXPLORATION
+
+https://github.com/StephenElston/ExploringDataWithPython/blob/master/LearningDataVisualization.ipynb
+
+https://www.kaggle.com/c/titanic#description
 
 STATISTICAL LEARNING 
 
@@ -118,17 +120,7 @@ Building and deploying large-scale AI systems
 Capstone Project, preparation and presentation
 
 
-
-
-
-
-
-
-
-
-
-
-
+# extra credit
 SQL
 https://www.khanacademy.org/computing/computer-programming/sql
 
@@ -143,7 +135,7 @@ https://cs109.github.io/2015/index.html
 
 How to think like a computer scientist http://www.openbookproject.net/thinkcs/python/english3e/
 
-WRITE A BLOG - https://onextrapixel.com/start-jekyl
+WRITE A BLOG
 
 
 Advanced
