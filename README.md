@@ -1,4 +1,6 @@
-<center> <h1>60 Days Of Udacity Timeline</h1> </center>
+<center> <h1>Quest to Becoming a Full Stack Deep Learning Engineer</h1> </center>
+
+#### Welcome to my journey with the #100-days-of-code and #60daysofUdacity.
 <center> <h1>Week One</h1> </center>
 <center> <h2>Intro To Python</h2> </center>
 
@@ -8,17 +10,16 @@ the right language for it. Python has been the most
 used over R and C++ due to its simple syntax and
 inter-package cooperation & availability.
 
+* Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics https://lectures.quantecon.org/py/
 
-Introduction to Python, The Scientific Libraries, Advanced Python Programming and the Pandas Section of Data and Empirics https://lectures.quantecon.org/py/
+* Chapters 1 - 4 https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb
 
-Chapters 1 - 4 https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb
+* Then this Pandas tutorial https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
 
-Then this Pandas tutorial https://pandas.pydata.org/pandas-docs/stable/getting_started/10min.html
+* Here are some excellent pandas code examples https://github.com/wesm/pydata-book
 
-Here are some excellent pandas code examples https://github.com/wesm/pydata-book
-
-DATA STRUCTURES AND ALGORITHMS IN PYTHON
-https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513
+##### DATA STRUCTURES AND ALGORITHMS IN PYTHON
+* https://eu.udacity.com/course/data-structures-and-algorithms-in-python--ud513
 http://interactivepython.org/runestone/static/pythonds/index.html
 
 
@@ -92,7 +93,7 @@ https://web.stanford.edu/~hastie/ElemStatLearn/
 
 PYTHON AND DATA SCIENCE
 
-Chapter 5 Python Data Science Handbook https://github.com/jakevdp/PythonData...
+Chapter 5 Python Data Science Handbook https://github.com/jakevdp/PythonDataScienceHandbook/blob/8a34a4f653bdbdc01415a94dc20d4e9b97438965/notebooks/Index.ipynb
 
 https://scikit-learn.org/stable/tutorial/index.html
 
